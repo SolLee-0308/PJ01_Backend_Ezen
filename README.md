@@ -54,22 +54,23 @@
 1. 회원가입 및 로그인 관련
 
 회원가입 1
-
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/ffc46732-5430-44ee-bd30-ff08ee5896f5
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/7df5510f-323e-49e1-bd55-66aa58f65dd4
 
 
 
 
 회원가입 2
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/90ddc5b5-10fc-4fb7-8d81-c96f517569e1
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/e19ba367-a76d-4153-9afb-4566141f2b10
+
+
 
 
 
 
 회원정보수정
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/17b5e4cd-6bee-43f0-9a05-2b6e1b2c7096
+
 
 
 
