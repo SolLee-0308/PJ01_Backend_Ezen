@@ -105,24 +105,28 @@ https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/37eb4805-3384-
 2. 게시판 관련
 
 게시판글쓰기
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/611df512-96fe-41f1-8bd9-2908b7d61678
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/2d110edc-a551-41ed-b5dd-95bc5a9ef519
 
 
 
 
 
 글 수정 및 삭제
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/212dfb68-2ce8-4bd6-9177-3ada11aad833
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/18ee2f0c-c492-4895-bfb6-6f18065f23fa
+
+
 
 
 
 
 
 게시판분류별서치
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/21f119a5-4d82-438d-bec5-b147737dcb28
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/84664dfa-8762-4976-b59a-94ef58732201
+
+
 
 
 
