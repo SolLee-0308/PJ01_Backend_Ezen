@@ -54,12 +54,14 @@
 1. 회원가입 및 로그인 관련
 
 회원가입 1
+
 https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/7df5510f-323e-49e1-bd55-66aa58f65dd4
 
 
 
 
 회원가입 2
+
 https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/90ddc5b5-10fc-4fb7-8d81-c96f517569e1
 
 
