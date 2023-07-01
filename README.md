@@ -139,6 +139,7 @@ https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/21f119a5-4d82-
 3. 기타
 
 관리자
+
 https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/acc99f66-ba20-4016-b54b-ce06d72f7e8a
 
 
