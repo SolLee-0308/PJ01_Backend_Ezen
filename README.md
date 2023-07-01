@@ -68,9 +68,9 @@ https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/90ddc5b5-10fc-
 
 
 
-
-
 회원정보수정
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/d83079f2-e737-436c-b5e4-1c3414fd80a0
+
 
 
 
@@ -79,16 +79,18 @@ https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/90ddc5b5-10fc-
 
 
 로그인확인_공지사항
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/bd224143-5123-47d0-a195-478fca83cd43
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/265fb1e5-eeab-4911-b57f-0410bc127881
 
 
 
 
 
 회원탈퇴
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/37eb4805-3384-402a-9665-a21966b3064e
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/90b6523e-479e-4b62-b7fb-d488b5f40588
+
+
 
 
 
