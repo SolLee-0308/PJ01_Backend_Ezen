@@ -55,27 +55,40 @@
 
 회원가입 1
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/251975b1-db00-4da9-a92f-baec465c035f
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/ffc46732-5430-44ee-bd30-ff08ee5896f5
+
+
 
 
 회원가입 2
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/3da47fa1-bede-4910-b937-494e310a52f6
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/e19ba367-a76d-4153-9afb-4566141f2b10
+
+
 
 
 회원정보수정
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/d60000af-bb17-4901-94f8-b320aa5987f0
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/17b5e4cd-6bee-43f0-9a05-2b6e1b2c7096
+
+
+
 
 
 로그인확인_공지사항
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/54b70687-91c6-4b9f-9228-5e5c8d8ca5a8
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/265fb1e5-eeab-4911-b57f-0410bc127881
+
+
+
 
 
 회원탈퇴
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/8b34778a-50c1-49ac-ac8c-adfb66fd7bed
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/90b6523e-479e-4b62-b7fb-d488b5f40588
+
+
+
 
 
 
@@ -85,17 +98,26 @@ https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/8b34778a-50c1-
 
 게시판글쓰기
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/3b361e01-ab32-4c00-a960-f9393791254f
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/2d110edc-a551-41ed-b5dd-95bc5a9ef519
+
+
+
 
 
 글 수정 및 삭제
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/67cc9deb-93b5-49cb-bda4-af03f57f06f3
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/18ee2f0c-c492-4895-bfb6-6f18065f23fa
+
+
+
 
 
 게시판분류별서치
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/faf16d12-5fa9-427d-a578-99950b7e08f4
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/84664dfa-8762-4976-b59a-94ef58732201
+
+
+
 
 
 
@@ -105,7 +127,9 @@ https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/faf16d12-5fa9-
 
 관리자
 
-https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/eceaf4b3-e25d-40da-b9d3-0ce2930b4c36
+https://github.com/SolLee-0308/PJ01_Backend_Ezen/assets/130268493/0e283326-9e3e-4a66-ad62-01c87ac6050d
+
+
 
 
 
